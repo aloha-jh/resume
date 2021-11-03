@@ -1,25 +1,19 @@
- 
 - company: (주)한국델켐
-  position: 기술연구소 선임연구원  
-  duration: 2016.8-2020.1 (3년 6개월) 
-  summary: 
-      #가공기 상태 실시간 모니터링 프로그램 UI/UX 리뉴얼<br/>
-      가공기 상태 실시간 모니터링 프로그램, smart factory, MES(Manufacturing Execution System) 생산관리시스템 프로그램 개발 
-  
+  position: 기술연구소 선임연구원
+  duration: 2016.8-2020.1 (3년 6개월)
+  summary:
+    #가공기 상태 실시간 모니터링 프로그램 UI/UX 리뉴얼<br/>
+    가공기 상태 실시간 모니터링 프로그램, smart factory, MES(Manufacturing Execution System) 생산관리시스템 프로그램 개발
+
 - company: (주)시큐레터
-  position: 연구소 DevOps팀 팀원 
-  duration: 2020.10-2021.3 (4개월) 
-  summary:  
-     악성메일 차단 솔루션 (장비상태 모니터링, 악성메일 로그) UI/UX 리뉴얼 <br/>
-    #   <br/>
-    #  express 프론트엔드 서버 router, middleware 개발 <br/>
-    #  passport를 적용하여 인증 session관리, 타임아웃 설정 등<br/>
-  
+  position: 연구소 DevOps팀 팀원
+  duration: 2020.10-2021.3 (4개월)
+  summary: 악성메일 차단 솔루션 (장비상태 모니터링, 악성메일 로그) UI/UX 리뉴얼 <br/>
+
 - company: (주)이투스교육
   position: TechLab 기반기술개발실 FE팀 팀원
-  duration: 2021.4~ 
-  summary: 
-      이투스 pc, mobile 이벤트 관리 템플릿화<br/>
-    #  vue, nuxt.js, 
-    #  프론트엔드개발 환경 구축 webpack bundling
- 
+  duration: 2021.4-2021.10 (6개월)
+  summary:
+    #이투스 pc, mobile 이벤트 관리툴 자동화<br/>
+    프론트엔드개발 환경 구축<br/>
+    웹성능 최적화 테스트 및 산출물 작성

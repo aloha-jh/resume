@@ -1,84 +1,79 @@
-  
-  
- 
-  #########
+#########
 - project: <br/> 한국델켐 <hr/>
-  role:   
-  duration: 
+  role:
+  duration:
   description: #설명
-  summary: 
-  img: 
-  skills: 
-  
+  summary:
+  img:
+  skills:
+
   #shopfloor
 - project: AIMS-Shopfloor
   role: Adaptive & Intelligent Manufacturing Solution
-  duration: 
+  duration:
   description: 금형업체의 가공기상태를 실시간으로 확인할수 있는 모니터링프로그램 입니다. 어떤 nc프로그램이 돌아가고 있는지, 현재 가공기 상태가 알림인지 정보를 알 수 있습니다. 모니터링페이지 외에 가동률집계데이터, 이벤트집계, nc가동내역집계 기능등이 있습니다.
-  summary: 
+  summary:
   img: <img src="./images/sf_01.png"/><img src="./images/sf_06.jpeg"/><br/><br/>
-  skills: 
+  skills:
 
-- project:  
+- project:
   role: ● UI/UX 리뉴얼
-  duration: 2017.05 
-  description: 
+  duration: 2017.05
+  description:
   summary: <ul class="resume-item-list"><li>시각적으로 불필요한 애니메이션이들어간 메인navigation을 수정함으로써 UI개선</li><li>불필요한 bootstrap을 걷어내고 웹표준 마크업을 사용하여 필요한 코드만 사용해서 구현함으로써 로딩속도 증가 및 사용성 개선</li><li>pc, tablet, mobile 반응형으로 제작되었으며 그래프를 제외한 나머지 기능은 플러그인 없이 구현되었습니다.</li> <li>화면 디자인, 프론트엔드100%</li></ul>
-  img: <img src="./images/sf_before.jpg" /><img src="./images/sf_after.jpg" />  
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>media-query</span><span>d3.js</span><span>.net</span><span>asp</span> 
+  img: <img src="./images/sf_before.jpg" /><img src="./images/sf_after.jpg" />
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>media-query</span><span>d3.js</span><span>.net</span><span>asp</span>
 
-- project:  
+- project:
   role: ● 맵 페이지, 가공기 배치기능 추가 (기능 추가)
   duration: 2018
   description: 100개가 넘는 가공기를 한눈에 보고싶다는 요청 그리고 해당가공기를 실제 현장과 같은 위치의 화면에서 보여주는게 목적이였습니다. 클릭했을때 UI의 크기조절 및 배치기능을 하는 페이지를 만들게 되었습니다
   summary: <ul class="resume-item-list"><li>jQueryUi를 사용해 드레그 이벤트, 드레그중일때 이벤트, 드롭다운 이벤트를 잡아서 각 이벤트에 따른 필요한 기능들을 구현하였습니다.</li><li>드롭다운시 해당공간에 갯수만큼의 공간이 존재해야 놓을수있음을 알려주는 파란색의 그림자 ui가보이게 되도록 구현하였습니다.</li><li>jqueryUI를 사용해 여러대의 가공기를 드래그앤 드랍하여 가공기배치가 가능합니다.</li><li>ajax요청으로 RESTAPI 데이터를받아 작업하였습니다.</li><li>화면설계 및 디자인, 프론트엔드100%</li></ul>
-  img: <img src="./images/sf_b_0.png"/><img src="./images/sf_b_1.jpg"/><img src="./images/sf_b.jpg"/><img src="./images/sf_b_2.jpg"/>  
+  img: <img src="./images/sf_b_0.png"/><img src="./images/sf_b_1.jpg"/><img src="./images/sf_b.jpg"/><img src="./images/sf_b_2.jpg"/>
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>.net</span><span>asp</span>
 
-- project:  
+- project:
   role: ● 메인 옵션창 추가 (부가기능 추가)
   duration: 2018
   description: 메인화면의 가공기상태 확인페이지에서 가공기의 세부정보 (피드,rpm등)를 사용자가 선택해서 선택된항목만 화면에 노출시켜주는 기능을 추가하였습니다.
   summary: <ul class="resume-item-list"><li> UI 디자인및 인터렉션 화면 제작</li><li>asp 템플릿 repeaterM를 만들어 추가, ascx.cs에서 만든 db를 repeaterM과 데이터바인딩 및 db변수항목 출력</li><li>첫 화면 렌더링시 C#에서 js로 데이터 받아서 실행시켜주기 위해 ClientScriptManager를 사용</li></ul>
-  img: <img src="./images/sf_add.jpg"/> 
+  img: <img src="./images/sf_add.jpg"/>
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>.net</span><span>asp</span><span>c#</span>
 
-
-- project:  
+- project:
   role: ● 기타(유지보수, 기능개선, 버그수정)
   duration: 2018, 2019
-  description: 
+  description:
   summary: <ul class="resume-item-list"><li>해당 프록시저 Databats Query문 수정</li></ul>
-  img:  
-  skills:  
-
+  img:
+  skills:
 
   #########
-- project: 
-  role:   
-  duration: 
+- project:
+  role:
+  duration:
   description: <br/><br/>
-  summary: 
-  img: 
+  summary:
+  img:
   skills:
 
   #AIMS-Office
 - project: AIMS-Office
-  role:  
-  duration: 
+  role:
+  duration:
   description: 금형업체를 대상으로 한 스마트오피스, MES(Manufacturing Execution System) 생산관리시스템 프로그램입니다. 업체마다 특성이 달라서 각 업체별 워크플로우로 필요한기능을 커스터마이징해서 개발하게 된 프로젝트 입니다.
-  summary: 
-  img: 
+  summary:
+  img:
   skills:
-- project:   
+- project:
   role: ● saewoung
   duration: 2016.8
   description: 금형을 제작하기 위해 필요한 여러가지 공정과정들을 계획하고 관리하는 프로그램 입니다. 제품및 주문정보, BOM(Bill of Material), 생산계획관리, 외주/소재/구매, 비용분석, 데시보드 페이지로 이루어져 있습니다.
   summary: <ul class="resume-item-list"><li>데시보드페이지 - jQuery drag and drop 기능으로 각판넬을 윈하는 위치로 이동가능하게 제작. 레이아웃으로 주제가 비슷한 내용을 하나의 판넬로 구성.</li><li>비용분석페이지 - 계획비용, 실적비용(수주가 대비실제이익), 수주가를  D3.js를 사용 바 그래프(svg)로 표현. 계획비용과 실적비용부분은 각 세부항목에 대한 비율을 D3.js를 이용 pie-chart(svg)로 표현.</li><li>화면구성(시안도출) 및 디자인, 프론트엔드개발100%</li></ul>
-  img: <img src="./images/dashboard.jpg"/><img src="./images/cost_full.jpg"/> 
+  img: <img src="./images/dashboard.jpg"/><img src="./images/cost_full.jpg"/>
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>D3.js</span><span>ajax</span> <span>django</span><span>swagger</span><span>python</span>
 
-- project:   
+- project:
   role: ● handoc
   duration: 2017
   description: 금형및 수주정보, 금형제작일정표, 설계일정표, BOM, 생산CAPA관리, 비용계획표, 기준정보관리 페이지로 이루어져 있습니다. <br/>금형및 수주정보페이지에서 데이터를 입력하여 의뢰받은 금형정보를 입력합니다. 제작일정표 페이지에서는 제작일정을 작업자들끼리 공유함으로써, 다음 금형작업자가 일정을 잡습니다.
@@ -87,26 +82,25 @@
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>django</span><span>swagger</span><span>python</span>
   #<img src="./images/info_before.png"/>
 
-
-- project:   
+- project:
   role: ● package
   duration: 2017
-  description: 클라우드 서비스 목적으로 기획했던, 에임스오피스 패키지 프로젝트 입니다.  업체에 필요한 기능들을 넣기위해 업체인터뷰를 통해 고객들의 요구사항을 파악하여 진행되었습니다. 작업자의 요구사항으로는 CAD,CAM의 설계도면의 공유와 지시사항을 서면이 아닌 여러가지 방법으로 효율적으로 전달해 받기를 원했습니다. 관리자 요구사항으로는 해당 금형제작건의 진행사항, 현재상태 정보등을 알기를 윈했고, 업무 능률성 향상을 위한 작업자들의 진행현황을 보고, 유연한대처가 가능한 스케줄관리 기능을 원했습니다. 따라서 파일공유, 채팅기능이 메인인 작업자용 페이지, 작업자의 스케줄을 관리하는 관리자용 페이지로 시안을 기획 디자인하게 되었습니다. 
+  description: 클라우드 서비스 목적으로 기획했던, 에임스오피스 패키지 프로젝트 입니다.  업체에 필요한 기능들을 넣기위해 업체인터뷰를 통해 고객들의 요구사항을 파악하여 진행되었습니다. 작업자의 요구사항으로는 CAD,CAM의 설계도면의 공유와 지시사항을 서면이 아닌 여러가지 방법으로 효율적으로 전달해 받기를 원했습니다. 관리자 요구사항으로는 해당 금형제작건의 진행사항, 현재상태 정보등을 알기를 윈했고, 업무 능률성 향상을 위한 작업자들의 진행현황을 보고, 유연한대처가 가능한 스케줄관리 기능을 원했습니다. 따라서 파일공유, 채팅기능이 메인인 작업자용 페이지, 작업자의 스케줄을 관리하는 관리자용 페이지로 시안을 기획 디자인하게 되었습니다.
   summary: <ul class="resume-item-list"><li>기획 및 화면구성에 참여</li><li>화면구성(시안도출) 및 디자인 100%</li></ul>
-  img: <img src="./images/worker.png"/><img src="./images/manager_.jpg"/> 
-  skills:  
+  img: <img src="./images/worker.png"/><img src="./images/manager_.jpg"/>
+  skills:
 
   #########
-- project: 
-  role:   
-  duration: 
+- project:
+  role:
+  duration:
   description: <br/><br/>
-  summary: 
-  img: 
+  summary:
+  img:
   skills:
   #HD-Scheduler
 - project: HD-Scheduler
-  role:  ● 에이치디 스케줄러 - PC
+  role: ● 에이치디 스케줄러 - PC
   duration: 2019
   description: 금형회사의 스케줄관리 back officce프로그램, SPA 입니다. 기본적으로 프로젝트 일정등록, 수정, 삭제 기능이 있고 프로젝트일정에 원하는 구성원을 추가할수 있습니다. 결제승인을 서면으로 받지 않고 사장이 승인을 한 경우 바로 중간관리자가 확인할수 있는 기능등이 있습니다.
   summary: <ul class="resume-item-list"><li>slack-API를 사용해 결제승인요청 알람, 프로젝트에 지정된 여러사람들에게 알람기능 구현하였습니다.</li><li>(플러그인을 사용할경우 플러그인의기존 기능에 전부 커스터마이징이 필요할 것으로 판단되어)별도의 스케줄러(달력) 플러그인 없이, API로 json데이터를 받아 일정들을 연결해서 쏘팅하고, 스케줄러달력을 보여주는 부분까지 직접 구현하였습니다.</li><li>기획서의 내용대로 구현하려면 일정클릭이벤트, 일자 클릭이벤트가 서로 클릭영역이 겹치는 문제가 있었는데, 일자클릭 이벤트를 클릭하는 위치값으로 해당일자를 알아내어 처리함으로써 기획서대로 구현할 수 있었습니다.</li><li>pc,mobile 두가지 버전으로 만들어 졌습니다.</li><li>화면디자인, 프론트엔드 개발 100%</li><li class="no-print"><a href="https://drive.google.com/file/d/1--l4liMWGgBYi3Xl0iIMaIrkeV_xfDdl/view?usp=sharing" target="_black" >HD-Scheduler 사용자 메뉴얼</a></li></ul>
@@ -114,154 +108,154 @@
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>django</span><span>slack-API</span><span>python</span><span>mongoDB</span><span>mongoose</span><span>radis</span>
   #<ul class="resume-item-list"><li>사용자간의 알림의 경우 핸드폰에 slack앱을 설치하여 slackAPI연동을 통해 스케줄완료를 클릭할경우 사용자가 설정해놓은 팀 또는 해당스케줄의 참여자들에게 알림이 가게 구현되었습니다</li><li>slack web api를 사용하여 결제승인을 서면으로 받지 않고 사장이 승인을 한 경우 바로 중간관리자가 확인할수 있는 기능을 추가하였습니다.</li><li>이미업로드되어 있는 파일을 관리자가 스케줄에 등록하여 나머지 사람들은해당 스케줄에 연관된 파일을 볼수 있는 기능등이 있습니다.</li></ul><li>개발완료후 업체방문 및 교육까지 완료 하였습니다.</li>
 
-- project:  
-  role:  ● 스케줄러 - Mobile
+- project:
+  role: ● 스케줄러 - Mobile
   duration: 2019
-  description: 
+  description:
   summary: <ul class="resume-item-list"><li>화면구성, 디자인, 프론트엔드개발 100%</li></ul>
-  img: <img src="./images/grey4.jpg"/>  
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>django</span><span>slack-API</span><span>python</span><span>mongoDB</span><span>mongoose</span><span>radis</span>
-  
-  
+  img: <img src="./images/grey4.jpg"/>
+  skills:
+    <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>django</span><span>slack-API</span><span>python</span><span>mongoDB</span><span>mongoose</span><span>radis</span>
 
-   #########
+    #########
 - project: <br/> 시큐레터 <hr/>
-  role:   
-  duration: 
+  role:
+  duration:
   description: #설명
-  summary: 
-  img: 
-  skills: 
+  summary:
+  img:
+  skills:
 
-- project:  
-  role:  ● Mars V2.5
+- project:
+  role: ● Mars V2.5
   duration: 2020.10-2021.03
   description: 악성메일 차단 솔루션 (장비상태 모니터링, 악성메일 로그) UI/UX 리뉴얼
   summary: <ul class="resume-item-list"><li>디자인 시안 수정 및 정리</li><li>마크업 설계 및 퍼블리싱</li><li>hbs 데이터 바인딩 및 in output 처리</li><li>express 프론트엔드 서버 router, middleware 개발</li><li>passport를 적용하여 인증 session관리, 타임아웃 설정 등</li><li>프로젝트 리더로 개발 참여</li></ul>
-  img: <img src="./images/mars_1.jpg"/><img src="./images/mars_2.jpg"/>  
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>nodejs</span><span>express</span><span>passport</span>
-  
+  img: <img src="./images/mars_1.jpg"/><img src="./images/mars_2.jpg"/>
+  skills:
+    <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>nodejs</span><span>express</span><span>passport</span>
 
-
-   #########
+    #########
 - project: <br/> 이투스 교육 <hr/>
-  role:   
-  duration: 
+  role:
+  duration:
   description: #설명
-  summary: 
-  img: 
-  skills: 
+  summary:
+  img:
+  skills:
 
-- project:  
-  role:  slider(carousel) 기능구현
-  duration: 2021.6
+- project:
+  role: slider(carousel) 기능구현
+  duration: 2021.6-2021.7
   description: vanilla javascript로 구현된 UI 인터렉션 slider 입니다
-  summary:  <ul class="resume-item-list"><li>퍼포먼스향상 측면에서 리렌더링을 방지하기 위해 width, height 대신 trasition을 사용</li><li> 페이지 내 여러 배너를 사용할수 있게 인스턴스화 시켜서 사용하도록 개발</li><li>마크업 설계, 퍼블리싱, javascript 100%</li><li>https://github.com/aloha-jh/slide</li></ul>
-  img: <img src="./images/slider_1.png"/> 
+  summary: <ul class="resume-item-list"><li>퍼포먼스향상 측면에서 리렌더링을 방지하기 위해 width, height 대신 trasition을 사용</li><li> 페이지 내 여러 배너를 사용할수 있게 인스턴스화 시켜서 사용하도록 개발</li><li>마크업 설계, 퍼블리싱, javascript 100%</li><li>https://github.com/aloha-jh/slide</li></ul>
+  img: <img src="./images/slider_1.png"/><img src="./images/slider_2.png"/>
   skills: <span>html</span><span>css</span><span>javascript</span>
-  
-- project:  
-  role:  event - 템플릿화
-  duration: 2021.6 ~
-  description: 
-  summary:  <ul class="resume-item-list"><li>webpack 개발환경 구축 (loader, module)</li></ul>
-  img: 
-  skills: <span>html</span><span>css</span><span>javascript</span><span>nodejs</span><span>webpack</span><span>vuejs</span>
-  
- 
+
+- project:
+  role: 이벤트 관리툴 자동화 사전작업
+  duration:
+  description:
+  summary: <ul class="resume-item-list"><li>webpack 개발환경 구축</li><li>sass-loader 설정하여 sass로 작성후 컴파일링, bannerPlugin 사용하여 빌드날짜 주석 작성, htmlWebpackPlugin 패키지 사용하여 개발버전과 배포 title명 변경 작업 등</li></ul>
+  img:
+  skills: <span>html</span><span>css</span><span>javascript</span><span>webpack</span><span>vuejs</span><span>nuxtjs</span>
+
+- project:
+  role: 웹성능 최적화 테스트 및 수정, 산출물 작성
+  duration:
+  description:
+  summary: <ul class="resume-item-list"><li>front-end resource(html, css, js)를 웹팩 번들링후 결과물을 github page로 배포해서 web page test로 테스트진행 하였습니다.</li><li>분석결과를 바탕으로 preload, preconnect, dns-prefetch등 설정시켜 초기렌더링 시간 단축하였으며, _blank 속성위 취약점 등을 보완 하였습니다.</li></ul>
+  img: <img src="./images/wpo_01.png"/><img src="./images/wpo_02.png"/>
+  skills: <span>html</span><span>css</span><span>javascript</span><span>nodejs</span><span>webpack</span>
+
   #########
-- project: 
-  role:   
-  duration: 
+- project:
+  role:
+  duration:
   description: <br/><br/>
-  summary: 
-  img: 
-  skills: 
+  summary:
+  img:
+  skills:
 
 - project: Study & Portfolio
-  role:   
-  duration: 
+  role:
+  duration:
   description: 공부 및 포트폴리오를 위해 만든 사이트 입니다.
-  summary: 
-  img: 
-  skills: 
-    
-- project: 
+  summary:
+  img:
+  skills:
+
+- project:
   role: ● Round bird
   duration: 2020.6-2020.9
   description: 일상 사진, 글을 공유하는 SNS web application, SPA입니다.
   summary: <ul class="resume-item-list"><li>React를 적용하여 virtualDOM을 사용함으로써 app의 성능 향상시킨 SPA 구현</li><li>React의 Component형식의 UI구성으로 재사용성과 유지보수 향상</li><li>React-redux, redux-saga로 비동기API요청처리와 효율적인 중앙 state 관리</li><li>SSR을 위한 frontend-server Next.js 적용</li><li>Next.js의 자동 코드 스플리팅 적용으로 빠른 페이지 로드</li><li>SSR을 통해초기렌더링 딜레이 단축</li><li>frontend-server와 backend-server를 나눠서 개발함으로써 DB확장성 증가</li><li>babel을 사용하여 crossbrowsing 문제를 해결</li><li>request, response과정에서 express의 웹 취약성으로부터 헤더보안설정을 위해 helmet사용함으로써 보안성 향상</li><li>사용패키지:material-ui, nodemon, axios, bcrypt, cors, dotenv, express-session, cookie-parser, morgan, multer, passport</li><li>https://github.com/aloha-jh/round-bird</li></ul>
-  img:  <img src="./images/round_bd_db.png"/>  
+  img: <img src="./images/round_bd_db.png"/>
   url: #https://github.com/aloha-jh/round-bird
   skills: <span>ES6</span><span>JSX</span><span>react</span><span>react-redux</span><span>redux-saga</span><span>webpack</span><span>babel</span><span>nextjs</span><span>express</span><span>sequelize</span><span>mysql</span><span>npm</span>
 
-
- 
-- project:  
+- project:
   role: ● spring mvc shop
   duration: 2020.3-2020.6
   description: spring framework를 사용, MVC패턴이 적용된 상품등록 및 주문 하는 쇼핑몰 web application 입니다.
   summary: <ul class="resume-item-list"><li>spring MVC패턴</li><li>DispatcherServlet을 사용한 단일이입점 구성</li><li>의존성주입Dependency Injection를 통한 빈 생성으로 클레스간의 의존성 제거 및 레이어간의 디커플링</li><li>AOP를 이용하여 비회원일경우 controller에 요청하기 전에 접근제한transaction처리)</li><li>Presentation-logic과 business logic을 분리하여 개발</li><li>J-uint사용한 테스트코드 작성 및 유닛테스트</li><li>mybatis를 통해 SQL문을 XML로 관리</li><li>https://github.com/aloha2jh/mvc_shop</li></ul>
-  img:   
+  img:
   skills: <span>html/css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>ES6</span><span>java</span><span>JSTL</span><span>spring</span><span>Annotation</span><span>AOP</span><span>EL</span><span>Oracle</span><span>mybatis</span><span>REST-API</span><span>REST-server</span>
 
-- project:  
+- project:
   role: ● fly asina
   duration: 2015.11-2016.2
-  description: HTML5 sementic 마크업, CSS3를 사용하여 트렌디한 웹 구현  # 포트폴리오용으로 만든 디자이너에서 UI개발로 첫발돋음한 사이트
-  summary: <ul class="resume-item-list"><li>html5시멘틱 마크업 사용, 웹표준과 웹접근성을 준수한 마크업</li><li>다양한 기기별로 정보전달에 용의하게 하기위해 media query를 사용하여 PC, tablet, mobile반응형으로 제작</li><li>banner-sliding, modal, layer-popup등의 UI인터렉션을 플러그인을 사용하지 않고 직접 jquery와 javascript로 제작</li></ul>
-  img: <img src="./images/fly_2.png"/><img src="./images/kwah.png"/>
+  description: HTML5 sementic 마크업, CSS3를 사용하여 트렌디한 웹 구현 # 포트폴리오용으로 만든 디자이너에서 UI개발로 첫발돋음한 사이트
+  summary: <ul class="resume-item-list"><li>html5시멘틱 마크업 사용, 웹표준과 웹접근성을 준수한 마크업</li><li>다양한 기기별로 정보전달에 용의하게 하기위해 media query를 사용하여 PC, tablet, mobile반응형으로 제작</li><li>banner-sliding, modal, layer-popup등의 UI인터렉션을 플러그인을 사용하지 않고 직접 jquery와 javascript로 제작</li><li class="no-print"><a href="https://drive.google.com/file/d/1--l4liMWGgBYi3Xl0iIMaIrkeV_xfDdl/view?usp=sharing" target="_black" >사용자 메뉴얼</a></li></ul>
+  img: <img src="./images/fly_2.png"/><img src="./images/kwah.png"/><img src="./images/fly_s_02.png"/><img src="./images/fly_s_04.png"/>
   skills: <span>html/css</span><span>javascript</span><span>jquery</span><span>media-query</span><span>php</span>
 
-
 - project:
-  role:   
-  duration: 
+  role:
+  duration:
   description: <br/><br/>
-  summary: 
-  img: 
-  skills: 
-    
+  summary:
+  img:
+  skills:
+
 - project: Presentation
   role: ● Google Cloud Platform
-  duration:  
+  duration:
   description: GCP 참석후 정보 전달을 위해 만들었습니다.
   summary: <ul class="resume-item-list"><li><a href="https://drive.google.com/file/d/1EovRjJUjB_A9lt3UWTnp2L8_ujlNQo6c/view?usp=sharing" target="_black">GCP(Google Cloud Platform)</a></li></ul>
-  img:   
-  url: 
-  skills: 
-
+  img:
+  url:
+  skills:
 
   #########
 # - project: UI/UX Design
-#   role:   
-#   duration: 
+#   role:
+#   duration:
 #   description: <br/><br/>
-#   summary: 
-#   img: 
+#   summary:
+#   img:
 #   skills:
 
-# - project:  
+# - project:
 #   role:  #● GUI guide line 제작
-#   duration:  
-#   description: 
+#   duration:
+#   description:
 #   summary: <ul class="resume-item-list"><li>HD-프로그램들의 디자인 통일성을 위해 GUI guideline을 제작하였습니다.</li></ul>
 #   img: <img src="./images/hdicon.jpg"/><img src="./images/hdicon_ex.jpg"/>
-#   skills:  
+#   skills:
 
+# 디자인학과로 대학교에 진학하였으나, 진로에 고민하던도중 웹에이젼시의 디자이너로 일하게 되었고, 웹개발에 흥미를 느껴
+# 관련교육을 이수받아 연구소에서 3년간 일하게 되었습니다.
+# 현재 대학원 진학이 목표이며,
 
-  # 디자인학과로 대학교에 진학하였으나, 진로에 고민하던도중 웹에이젼시의 디자이너로 일하게 되었고, 웹개발에 흥미를 느껴
-  # 관련교육을 이수받아 연구소에서 3년간 일하게 되었습니다.
-  # 현재 대학원 진학이 목표이며, 
+# 중학교때 사교육 없이 미술과목을 전교1등하게 되어 엄마의 권유로 미술학원에서 대입을 준비, 디자인학과 대학교로 진학하게 되었습니다.
+# 당시 학교에서 열리는 디자인과 전시회를 위해 한학기를 꼬박 쏟아부었던 작품들이 전시회가 끝나고
+# 폐기처분되고 버려지는 모습을 보고 모호한 디자인이라는 분야보다 좀더 실질적으로 도움이되는일이 없을까 고민하게 되었습니다.
+# 그렇게 진로에 고민하던 도중 웹에이젼시의 디자이너로 일하게 되었고, 코딩과 웹개발에 흥미를 느껴 관련교육을 이수받아 연구소에서
+# 3년간 일하게 되었습니다.
+# 무언가 만드는 일에 집중하고 탐구하는 일이 적성에 맞다고 생각하며, 사용자들이 어떻게하면 좀더 편리하게 웹을 사용할수 있을지 고민합니다.
+# ###디자인 능력도 살려서 일을 할 수있고, 분야를 좋아합니다.
 
-  # 중학교때 사교육 없이 미술과목을 전교1등하게 되어 엄마의 권유로 미술학원에서 대입을 준비, 디자인학과 대학교로 진학하게 되었습니다.
-  # 당시 학교에서 열리는 디자인과 전시회를 위해 한학기를 꼬박 쏟아부었던 작품들이 전시회가 끝나고
-  # 폐기처분되고 버려지는 모습을 보고 모호한 디자인이라는 분야보다 좀더 실질적으로 도움이되는일이 없을까 고민하게 되었습니다. 
-  # 그렇게 진로에 고민하던 도중 웹에이젼시의 디자이너로 일하게 되었고, 코딩과 웹개발에 흥미를 느껴 관련교육을 이수받아 연구소에서
-  # 3년간 일하게 되었습니다.
-  # 무언가 만드는 일에 집중하고 탐구하는 일이 적성에 맞다고 생각하며, 사용자들이 어떻게하면 좀더 편리하게 웹을 사용할수 있을지 고민합니다.
-  # ###디자인 능력도 살려서 일을 할 수있고, 분야를 좋아합니다.
-
-  # 신입이랑, 경력자에게 기대하는 사항이 다르다 ..
-  # 경력이면 아무래도 리더십과 기획능력?
-  # 관리자로 올라가는? 
+# 신입이랑, 경력자에게 기대하는 사항이 다르다 ..
+# 경력이면 아무래도 리더십과 기획능력?
+# 관리자로 올라가는?
