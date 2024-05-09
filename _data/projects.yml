@@ -204,6 +204,15 @@
   skills:
 
 - project:
+  role: ● Twitter 클론코딩
+  duration: 2024.4-2024.5
+  description: 트위터 클론코딩한 웹 어플리케이션 입니다.
+  summary: <ul class="resume-item-list"><li>next 14 버전 사용</li><li>불필요한 style sheet적용 없이 깔끔한 mark up 설계</li><li></li></ul>
+  img: <img src="./images/jcom.png"/>
+  url: #https://github.com/aloha-jh/jcom
+  skills: <span>next 14</span><span>react</span>
+
+- project:
   role: ● Round bird
   duration: 2020.6-2020.9
   description: 일상 사진, 글을 공유하는 SNS web application, SPA입니다.
