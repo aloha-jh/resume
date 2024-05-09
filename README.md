@@ -1,6 +1,6 @@
 # Resume template
 
-*A simple Jekyll + GitHub Pages powered resume template.*
+_A simple Jekyll + GitHub Pages powered resume template._
 
 ![img](images/screenshot.png)
 
@@ -12,8 +12,8 @@ To test locally, run the following in your terminal:
 
 1. Clone repo locally
 1. `bundle install`
-2. `bundle exec jekyll serve`
-3. Open your browser to `localhost:4000`
+1. `bundle exec jekyll serve`
+1. Open your browser to `localhost:4000`
 
 ### Customizing
 
@@ -53,4 +53,3 @@ If you spot a bug, or want to improve the code, or even make the dummy content b
 2. Fork the project, make changes, and submit a pull request
 
 ## License
- 

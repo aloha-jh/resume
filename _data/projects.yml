@@ -166,7 +166,25 @@
   description:
   summary: <ul class="resume-item-list"><li>front-end resource(html, css, js)를 웹팩 번들링후 결과물을 github page로 배포해서 web page test로 테스트진행 하였습니다.</li><li>분석결과를 바탕으로 preload, preconnect, dns-prefetch등 설정시켜 초기렌더링 시간 단축하였으며, _blank 속성위 취약점 등을 보완 하였습니다.</li></ul>
   img: <img src="./images/wpo_01.png"/><img src="./images/wpo_02.png"/>
-  skills: <span>html</span><span>css</span><span>javascript</span><span>nodejs</span><span>webpack</span>
+  skills:
+    <span>html</span><span>css</span><span>javascript</span><span>nodejs</span><span>webpack</span>
+
+    #########
+- project: <br/> DS Cloud 운영 <hr/>
+  role:
+  duration:
+  description: #설명
+  summary:
+  img:
+  skills:
+
+- project:
+  role: 인프라 자동화 script 개발및 운영
+  duration: 2023.6-2024.2
+  description:
+  summary: <ul class="resume-item-list"><li>동보 예외 관리 - 다건개체 검색, 기능개선</li><li>클러스터, 스토리지, 네트워크 태그 업데이트 worfklow개발 등</li><li>자주 사용하는 스크립트 모듈화 해서 관리(import & export CSV / module.js)</li></ul>
+  img:
+  skills: <span>javascript</span><span>aria automation workflow</span>
 
   #########
 - project:
@@ -226,36 +244,3 @@
   img:
   url:
   skills:
-
-  #########
-# - project: UI/UX Design
-#   role:
-#   duration:
-#   description: <br/><br/>
-#   summary:
-#   img:
-#   skills:
-
-# - project:
-#   role:  #● GUI guide line 제작
-#   duration:
-#   description:
-#   summary: <ul class="resume-item-list"><li>HD-프로그램들의 디자인 통일성을 위해 GUI guideline을 제작하였습니다.</li></ul>
-#   img: <img src="./images/hdicon.jpg"/><img src="./images/hdicon_ex.jpg"/>
-#   skills:
-
-# 디자인학과로 대학교에 진학하였으나, 진로에 고민하던도중 웹에이젼시의 디자이너로 일하게 되었고, 웹개발에 흥미를 느껴
-# 관련교육을 이수받아 연구소에서 3년간 일하게 되었습니다.
-# 현재 대학원 진학이 목표이며,
-
-# 중학교때 사교육 없이 미술과목을 전교1등하게 되어 엄마의 권유로 미술학원에서 대입을 준비, 디자인학과 대학교로 진학하게 되었습니다.
-# 당시 학교에서 열리는 디자인과 전시회를 위해 한학기를 꼬박 쏟아부었던 작품들이 전시회가 끝나고
-# 폐기처분되고 버려지는 모습을 보고 모호한 디자인이라는 분야보다 좀더 실질적으로 도움이되는일이 없을까 고민하게 되었습니다.
-# 그렇게 진로에 고민하던 도중 웹에이젼시의 디자이너로 일하게 되었고, 코딩과 웹개발에 흥미를 느껴 관련교육을 이수받아 연구소에서
-# 3년간 일하게 되었습니다.
-# 무언가 만드는 일에 집중하고 탐구하는 일이 적성에 맞다고 생각하며, 사용자들이 어떻게하면 좀더 편리하게 웹을 사용할수 있을지 고민합니다.
-# ###디자인 능력도 살려서 일을 할 수있고, 분야를 좋아합니다.
-
-# 신입이랑, 경력자에게 기대하는 사항이 다르다 ..
-# 경력이면 아무래도 리더십과 기획능력?
-# 관리자로 올라가는?
