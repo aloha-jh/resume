@@ -1,6 +1,7 @@
 # Resume template
 
 _A simple Jekyll + GitHub Pages powered resume template._
+aloha-jh.github.io/jeongha
 
 ![img](images/screenshot.png)
 

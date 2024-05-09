@@ -18,9 +18,7 @@
     프론트엔드개발 환경 구축<br/>
     웹성능 최적화 테스트 및 산출물 작성
 
-- company: (주)필라웨어 - 파견계약직
-  position: 삼성전자 기흥 DS Cloud 운영팀
+- company: (주)필라웨어
+  position: 삼성전자 기흥 DS Cloud 운영팀 (파견)
   duration: 2023.6-2024.02 (8개월)
-  summary:
-    #인프라 운영 자동화 스크립트 개발(vmware AriaAutomation-worflow script 개발)<br/>
-    인프라 자원 및 가상머신 관리 자동화 script 개발 및 운영
+  summary: 인프라 운영 자동화 스크립트 개발(vmware AriaAutomation-worflow script 개발)

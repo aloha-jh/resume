@@ -182,7 +182,7 @@
   role: 인프라 자동화 script 개발및 운영
   duration: 2023.6-2024.2
   description:
-  summary: <ul class="resume-item-list"><li>동보 예외 관리 - 다건개체 검색, 기능개선</li><li>클러스터, 스토리지, 네트워크 태그 업데이트 worfklow개발 등</li><li>자주 사용하는 스크립트 모듈화 해서 관리(import & export CSV / module.js)</li></ul>
+  summary: <ul class="resume-item-list"><li>동보 예외 관리 - 다건개체 검색기능 추가, 기능개선</li><li>클러스터, 스토리지, 네트워크 태그 업데이트 worfklow개발</li><li>기존 W/F 기능 개선 및 추가 (dnsNameTag정리-VM삭제시 tag자동 삭제기능추가, LB 생성시 동보예외처리 자동화 등)</li><li>자주 사용하는 스크립트 모듈화 해서 관리(import & export CSV / module.js)</li></ul>
   img:
   skills: <span>javascript</span><span>aria automation workflow</span>
 
