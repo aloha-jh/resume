@@ -22,7 +22,8 @@
   description:
   summary: <ul class="resume-item-list"><li>시각적으로 불필요한 애니메이션이들어간 메인navigation을 수정함으로써 UI개선</li><li>불필요한 bootstrap을 걷어내고 웹표준 마크업을 사용하여 필요한 코드만 사용해서 구현함으로써 로딩속도 증가 및 사용성 개선</li><li>pc, tablet, mobile 반응형으로 제작되었으며 그래프를 제외한 나머지 기능은 플러그인 없이 구현되었습니다.</li> <li>화면 디자인, 프론트엔드100%</li></ul>
   img: <img src="./images/sf_before.jpg" /><img src="./images/sf_after.jpg" />
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>media-query</span><span>d3.js</span><span>.net</span><span>asp</span>
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>media-query</span><span>d3.js</span>
+  # <span>.net</span><span>asp</span>
 
 - project:
   role: ● 맵 페이지, 가공기 배치기능 추가 (기능 추가)
@@ -30,7 +31,8 @@
   description: 100개가 넘는 가공기를 한눈에 보고싶다는 요청 그리고 해당가공기를 실제 현장과 같은 위치의 화면에서 보여주는게 목적이였습니다. 클릭했을때 UI의 크기조절 및 배치기능을 하는 페이지를 만들게 되었습니다
   summary: <ul class="resume-item-list"><li>jQueryUi를 사용해 드레그 이벤트, 드레그중일때 이벤트, 드롭다운 이벤트를 잡아서 각 이벤트에 따른 필요한 기능들을 구현하였습니다.</li><li>드롭다운시 해당공간에 갯수만큼의 공간이 존재해야 놓을수있음을 알려주는 파란색의 그림자 ui가보이게 되도록 구현하였습니다.</li><li>jqueryUI를 사용해 여러대의 가공기를 드래그앤 드랍하여 가공기배치가 가능합니다.</li><li>ajax요청으로 RESTAPI 데이터를받아 작업하였습니다.</li><li>화면설계 및 디자인, 프론트엔드100%</li></ul>
   img: <img src="./images/sf_b_0.png"/><img src="./images/sf_b_1.jpg"/><img src="./images/sf_b.jpg"/><img src="./images/sf_b_2.jpg"/>
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>.net</span><span>asp</span>
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span>
+  # <span>.net</span><span>asp</span>
 
 - project:
   role: ● 메인 옵션창 추가 (부가기능 추가)
@@ -38,7 +40,8 @@
   description: 메인화면의 가공기상태 확인페이지에서 가공기의 세부정보 (피드,rpm등)를 사용자가 선택해서 선택된항목만 화면에 노출시켜주는 기능을 추가하였습니다.
   summary: <ul class="resume-item-list"><li> UI 디자인및 인터렉션 화면 제작</li><li>asp 템플릿 repeaterM를 만들어 추가, ascx.cs에서 만든 db를 repeaterM과 데이터바인딩 및 db변수항목 출력</li><li>첫 화면 렌더링시 C#에서 js로 데이터 받아서 실행시켜주기 위해 ClientScriptManager를 사용</li></ul>
   img: <img src="./images/sf_add.jpg"/>
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>.net</span><span>asp</span><span>c#</span>
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span>
+  #  <span>.net</span><span>asp</span><span>c#</span>
 
 - project:
   role: ● 기타(유지보수, 기능개선, 버그수정)
@@ -71,7 +74,8 @@
   description: 금형을 제작하기 위해 필요한 여러가지 공정과정들을 계획하고 관리하는 프로그램 입니다. 제품및 주문정보, BOM(Bill of Material), 생산계획관리, 외주/소재/구매, 비용분석, 데시보드 페이지로 이루어져 있습니다.
   summary: <ul class="resume-item-list"><li>데시보드페이지 - jQuery drag and drop 기능으로 각판넬을 윈하는 위치로 이동가능하게 제작. 레이아웃으로 주제가 비슷한 내용을 하나의 판넬로 구성.</li><li>비용분석페이지 - 계획비용, 실적비용(수주가 대비실제이익), 수주가를  D3.js를 사용 바 그래프(svg)로 표현. 계획비용과 실적비용부분은 각 세부항목에 대한 비율을 D3.js를 이용 pie-chart(svg)로 표현.</li><li>화면구성(시안도출) 및 디자인, 프론트엔드개발100%</li></ul>
   img: <img src="./images/dashboard.jpg"/><img src="./images/cost_full.jpg"/>
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>D3.js</span><span>ajax</span> <span>django</span><span>swagger</span><span>python</span>
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>D3.js</span><span>ajax</span>
+  # <span>django</span><span>swagger</span><span>python</span>
 
 - project:
   role: ● handoc
@@ -79,7 +83,8 @@
   description: 금형및 수주정보, 금형제작일정표, 설계일정표, BOM, 생산CAPA관리, 비용계획표, 기준정보관리 페이지로 이루어져 있습니다. <br/>금형및 수주정보페이지에서 데이터를 입력하여 의뢰받은 금형정보를 입력합니다. 제작일정표 페이지에서는 제작일정을 작업자들끼리 공유함으로써, 다음 금형작업자가 일정을 잡습니다.
   summary: <ul class="resume-item-list"><li>생산capa 페이지의 frontend작업을 맡아, ajax를 호출하여 받은 데이터를 변환과정을 거쳐 화면에 넣어주는 작업을 처리하였습니다.</li><li>화면 디자인, 퍼블리싱, 프론트엔드 작업(생산CAPA관리, 기준정보관리) 100%</li><li>생산capa페이지의 경우 일자별로 계획기관과 실적기관이 일치하는지 계산하여 각 셀에 색상표시</li><li>성능측정 및 분석으로 렌더링과정 개선, 로딩시간 단축 및 최적화</li></ul>
   img: <img src="./images/bom_3.png"/><img src="./images/handoc_1.png"/><img src="./images/info_after.png"/><img src="./images/capa.png"/>
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>django</span><span>swagger</span><span>python</span>
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span>
+  # <span>django</span><span>swagger</span><span>python</span>
   #<img src="./images/info_before.png"/>
 
 - project:
@@ -115,7 +120,8 @@
   summary: <ul class="resume-item-list"><li>화면구성, 디자인, 프론트엔드개발 100%</li></ul>
   img: <img src="./images/grey4.jpg"/>
   skills:
-    <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>django</span><span>slack-API</span><span>python</span><span>mongoDB</span><span>mongoose</span><span>radis</span>
+    <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>django</span><span>slack-API</span>
+    # <span>python</span><span>mongoDB</span><span>mongoose</span><span>radis</span>
 
     #########
 - project: <br/> 시큐레터 <hr/>
@@ -210,7 +216,7 @@
   summary: <ul class="resume-item-list"><li>next 14 버전 사용</li><li>불필요한 style sheet적용 없이 깔끔한 mark up 설계</li><li></li></ul>
   img: <img src="./images/jcom.png"/>
   url: #https://github.com/aloha-jh/jcom
-  skills: <span>next 14</span><span>react</span>
+  skills: <span>next 14</span><span>react v18</span><span>typescript</span>
 
 - project:
   role: ● Round bird
@@ -244,12 +250,11 @@
   summary:
   img:
   skills:
-
-- project: Presentation
-  role: ● Google Cloud Platform
-  duration:
-  description: GCP 참석후 정보 전달을 위해 만들었습니다.
-  summary: <ul class="resume-item-list"><li><a href="https://drive.google.com/file/d/1EovRjJUjB_A9lt3UWTnp2L8_ujlNQo6c/view?usp=sharing" target="_black">GCP(Google Cloud Platform)</a></li></ul>
-  img:
-  url:
-  skills:
+# - project: Presentation
+#   role: ● Google Cloud Platform
+#   duration:
+#   description: GCP 참석후 정보 전달을 위해 만들었습니다.
+#   summary: <ul class="resume-item-list"><li><a href="https://drive.google.com/file/d/1EovRjJUjB_A9lt3UWTnp2L8_ujlNQo6c/view?usp=sharing" target="_black">GCP(Google Cloud Platform)</a></li></ul>
+#   img:
+#   url:
+#   skills:
