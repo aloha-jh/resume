@@ -176,7 +176,7 @@
     <span>html</span><span>css</span><span>javascript</span><span>nodejs</span><span>webpack</span>
 
     #########
-- project: <br/> 삼성전자 기흥<hr/>
+- project: <br/>삼성전자 기흥<hr/>
   role:
   duration:
   description: #설명
@@ -194,7 +194,7 @@
     <span>javascript</span><span>vmware - aria automation workflow</span><span>vsphere</span>
 
     #########
-- project: <br/> 유플러스 <hr/>
+- project: <br/>유플러스<hr/>
   role:
   duration:
   description: #설명
@@ -203,12 +203,12 @@
   skills:
 
 - project:
-  role: 화물잇고 어드민페이지 개발 - 운송플랫폼 어드민사이트 개발
+  role: 화물잇고 - 운송플랫폼 어드민사이트 개발
   duration: 2024.6-2024.8
   description:
   summary: <ul class="resume-item-list"><li>어드민 페이지 FE 개발</li><li>차주 회원관리 회원가입상태별 페이지, 화물이력 페이지 구현 등</li></ul>
   img:
-  skills: <span>vuejs</span><span>javascript</span>
+  skills: <span>vuejs</span><span>javascript</span><span>html/css</span>
 
   #########
 - project:
