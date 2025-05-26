@@ -312,22 +312,7 @@
     </ul>
   img: <img src="./images/manage_pjt_page.png"/><img src="./images/editor_page.png"/><img src="./images/ai_wizard_00.png"/><img src="./images/ai_wizard_1.png"/><img src="./images/ai_wizard_2.png"/><img src="./images/ai_wizard_3.png"/>
   skills: <span>react</span><span>typescript</span><span>zustand</span><span>tanstack-react-query</span><span>vite,pnpm</span>
-
-- project:
-  role: 웹기반 3D 공간편집 에디터 개발
-  duration: 2025.1-2025.2
-  description:
-  summary: >
-    <ul class="resume-item-list">
-    <li>프론트엔드 개발</li>
-    <li>건축 도면을 업로드하여 AI로 3D 건물을 생성하고 편집할 수 있는 웹 애플리케이션입니다.</li> 
-    <li>프로젝트 관리 페이지, AI 생성마법사 모달(6단계), 3D 공간편집 페이지로 구성</li>
-    <li>zustand, tanstack-react-query 로 전역데이터, 상태관리 구현</li>
-    <li>모듈화된 컴포넌트 설계, 직관적 UI/UX, 확장 가능한 아키텍처 구현</li>
-    </ul>
-  img: <img src="./images/manage_pjt_page.png"/><img src="./images/editor_page.png"/><img src="./images/ai_wizard_00.png"/><img src="./images/ai_wizard_1.png"/><img src="./images/ai_wizard_2.png"/><img src="./images/ai_wizard_3.png"/>
-  skills: <span>react</span><span>typescript</span><span>zustand</span><span>tanstack-react-query</span><span>vite,pnpm</span>
-
+ 
 
   #########
 - project:
