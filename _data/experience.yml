@@ -1,14 +1,17 @@
-- company: (주) 한국델켐
-  position: 기술연구소 선임연구원
-  duration: 2016.8-2020.1 (3년 6개월)
-  summary:
-    #가공기 상태 실시간 모니터링 프로그램 UI/UX 리뉴얼<br/>
-    가공기 상태 실시간 모니터링 프로그램, smart factory, MES(Manufacturing Execution System) 생산관리시스템 프로그램 개발
+- company: 계약직 / (주) 에이치디에스
+  position: 상주-기업부설연구소
+  duration: 2024.11-2025.05 (6개월)
+  summary: 웹기반 3D 공간편집 에디터 FE 개발
 
-- company: (주) 시큐레터
-  position: 연구소 DevOps팀 팀원
-  duration: 2020.10-2021.3 (4개월)
-  summary: 악성메일 차단 솔루션 (장비상태 모니터링, 악성메일 로그) UI/UX 리뉴얼 <br/>
+- company: 프리랜서 / (주) 크몽
+  position: 상주-LG 유플러스 로지스틱스 스쿼드
+  duration: 2024.6-2024.08 (3개월)
+  summary: 화물잇고 프로젝트 어드민 FE 개발
+
+- company: 프리랜서 / (주) 필라웨어
+  position: 상주-삼성전자 기흥 DS Cloud 운영팀
+  duration: 2023.6-2024.02 (8개월)
+  summary: 인프라 운영 자동화 스크립트 개발(vmware AriaAutomation-worflow script 개발)
 
 - company: (주) 이투스교육
   position: TechLab 기반기술개발실 FE팀 팀원
@@ -18,12 +21,14 @@
     프론트엔드개발 환경 구축<br/>
     웹성능 최적화 테스트 및 산출물 작성
 
-- company: (주) 필라웨어
-  position: 프리랜서/삼성전자 기흥 DS Cloud 운영팀
-  duration: 2023.6-2024.02 (8개월)
-  summary: 인프라 운영 자동화 스크립트 개발(vmware AriaAutomation-worflow script 개발)
+- company: (주) 시큐레터
+  position: 연구소 DevOps팀 팀원
+  duration: 2020.10-2021.3 (4개월)
+  summary: 악성메일 차단 솔루션 (장비상태 모니터링, 악성메일 로그) UI/UX 리뉴얼 <br/>
 
-- company: (주) 크몽
-  position: 프리랜서/LG 유플러스 로지스틱스 스쿼드
-  duration: 2024.6-2024.08 (3개월)
-  summary: 화물잇고 프로젝트 어드민 FE 개발
+- company: (주) 한국델켐
+  position: 기술연구소 선임연구원
+  duration: 2016.8-2020.1 (3년 6개월)
+  summary:
+    #가공기 상태 실시간 모니터링 프로그램 UI/UX 리뉴얼<br/>
+    가공기 상태 실시간 모니터링 프로그램, smart factory, MES(Manufacturing Execution System) 생산관리시스템 프로그램 개발
