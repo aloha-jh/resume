@@ -313,6 +313,30 @@
   img: <img src="./images/manage_pjt_page.png"/><img src="./images/editor_page.png"/><img src="./images/ai_wizard_00.png"/><img src="./images/ai_wizard_1.png"/><img src="./images/ai_wizard_2.png"/><img src="./images/ai_wizard_3.png"/>
   skills: <span>react</span><span>typescript</span><span>zustand</span><span>tanstack-react-query</span><span>vite,pnpm</span>
  
+    #########
+- project: <br/>LG 에너지솔루션hr/>
+  role:
+  duration:
+  description: #설명
+  summary:
+  img:
+  skills:
+
+- project:
+  role: 제조업 실시간 모니터링 고도화 개발
+  duration: 2025.7-2025.11
+  description:
+  summary: >
+    <ul class="resume-item-list">
+    <li>배터리 제조 3대 공정(전극/조립/활성화) 불량 데이터 실시간 모니터링 시스템 프론트엔드 개발</li>
+    <li>Highcharts Polygon Chart + ImageMapper 기반 2D 불량 위치 시각화 컴포넌트 구현</li> 
+    <li>동적 좌표 변환 로직 (실제 mm → Canvas 픽셀) 및 반응형 이미지 맵 구현</li>
+    <li>z다국어(한/영) 지원 및 Wijmo Grid 커스터마이징</li>
+    <li>Container/Presentation 패턴 기반 재사용 가능한 컴포넌트 아키텍처 설계</li>
+    </ul>
+  img: 
+  skills: <span>react</span><span>wijmo</span><span>highchart</span><span>npm</span>
+ 
 
   #########
 - project:
