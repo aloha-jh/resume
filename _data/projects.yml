@@ -312,9 +312,9 @@
     </ul>
   img: <img src="./images/manage_pjt_page.png"/><img src="./images/editor_page.png"/><img src="./images/ai_wizard_00.png"/><img src="./images/ai_wizard_1.png"/><img src="./images/ai_wizard_2.png"/><img src="./images/ai_wizard_3.png"/>
   skills: <span>react</span><span>typescript</span><span>zustand</span><span>tanstack-react-query</span><span>vite,pnpm</span>
- 
+   
     #########
-- project: <br/>LG 에너지솔루션hr/>
+- project: <br/>LG 에너지솔루션<hr/>
   role:
   duration:
   description: #설명
