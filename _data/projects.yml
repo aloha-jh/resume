@@ -331,7 +331,7 @@
     <li>배터리 제조 3대 공정(전극/조립/활성화) 불량 데이터 실시간 모니터링 시스템 프론트엔드 개발</li>
     <li>Highcharts Polygon Chart + ImageMapper 기반 2D 불량 위치 시각화 컴포넌트 구현</li> 
     <li>동적 좌표 변환 로직 (실제 mm → Canvas 픽셀) 및 반응형 이미지 맵 구현</li>
-    <li>z다국어(한/영) 지원 및 Wijmo Grid 커스터마이징</li>
+    <li>다국어(한/영) 지원 및 Wijmo Grid 커스터마이징</li>
     <li>Container/Presentation 패턴 기반 재사용 가능한 컴포넌트 아키텍처 설계</li>
     </ul>
   img: 
@@ -348,7 +348,7 @@
 
 - project:
   role: SK 쉴더스, ADT 캡스, 캡스홈 홈페이지 고도화 개발
-  duration: 2025.7-2025.11
+  duration: 2025.11-2026.02
   description:
   summary: >
     <ul class="resume-item-list">
